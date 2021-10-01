@@ -1,0 +1,60 @@
+101
+10/07/2021
+17/07/2021
+Alexandria
+Bus
+Alex Hotel
+Alex - Near Miami
+Going
+100
+2
+1000
+----------------------------------------
+102
+02/02/2019
+20/07/2021
+Istanbul
+Airplane
+Istanbul Hotel
+Besiktas - Istanbul
+Going
+100
+2
+2500
+----------------------------------------
+104
+24/07/2021
+01/08/2021
+Maldives
+Plane
+Samann Host
+Hulhumale - Kaafu Atoll region
+Going
+100
+1
+7250
+----------------------------------------
+105
+17/08/2021
+01/09/2021
+Los Angeles
+Plane
+Millennium Biltmore
+506 South Grand Avenue, Downtown LA, Los Angeles
+Going
+100
+0
+15000
+----------------------------------------
+106
+13/02/2022
+05/03/2022
+Sydney
+Plane
+Four Seasons Hotel
+Sydney Central Business District, Sydney
+Going
+100
+0
+26000
+----------------------------------------
